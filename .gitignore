@@ -1,0 +1,10 @@
+# Exclude large data files
+*.csv
+*.xlsx
+*.xlsb
+
+# Exclude temporary Excel files
+~$*
+
+# System folders
+.DS_Store
